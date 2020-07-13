@@ -3,6 +3,7 @@ body { color: purple;
 
 div.cabeza li{
     display: inline;
+    background-color: blue;
 }
 
 header {
