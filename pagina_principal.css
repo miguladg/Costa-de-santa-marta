@@ -3,7 +3,7 @@ body { color: purple;
 
 div.cabeza li{
     display: inline;
-    background-color: blue;
+    background-color: rgb(51, 255, 0);
 }
 
 header {
