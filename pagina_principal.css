@@ -5,6 +5,7 @@ body {
 div.cabeza li{
   background-color: blue;
     display: inline;
+    background-color: blue;
 }
 
 header {
